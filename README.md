@@ -23,6 +23,7 @@ in this project we use :
 ```sh
 source "https://rubygems.org"
 rails '5.2.1'
+gem 'faker'
 ```
 
 you can find all the gems in the Gemfile in this directory : 
